@@ -3,7 +3,7 @@
 ## Personal Information
 - **Name:** Your Name
 - **Age:** Your Age
-- **Location:** Your Location
+- **Location:** Your Locatio
 - **Occupation:** Your Occupation
 
 ## About Me
